@@ -3,7 +3,7 @@ import { Navbar } from "flowbite-react";
 const FlowNav = () => {
   return (
     <>
-      <Navbar fluid={true} rounded={true}>
+      <Navbar fluid={true} rounded={true} className="bg-purple-600 ">
         <Navbar.Brand href="https://flowbite.com/">
           <img
             src="https://flowbite.com/docs/images/logo.svg"

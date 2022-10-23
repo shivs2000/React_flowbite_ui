@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import { Rating, Card } from "flowbite-react";
+import { Card } from "flowbite-react";
 import FlowNav from "./components/FlowNav";
 
 function App() {
